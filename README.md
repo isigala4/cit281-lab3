@@ -53,6 +53,7 @@ Part 10: Export anonymous function declared within module.exports object
 Part 11: Using the spread operator with an array
 
 Part 12: Using the spread operator with an array
+
 The following were all the lab deliverables(the code files are included in GitHub as files):
 
 lab-03.js
